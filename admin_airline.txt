@@ -1,6 +1,10 @@
-ayman
-berraayman999
-123
 
-users password:
-user1234
+ADMIN
+username: admin
+email: berriayman999
+password: 123
+
+
+users
+username: 
+password: user1234
